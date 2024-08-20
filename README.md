@@ -1,3 +1,5 @@
+Archived as of 08/20/2024 please refer to [Archiving Repositories](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) on Github in case you need to unarchive this project.  
+
 # parse-server-sendgrid-adapter
 Simple sendgrid adapter for parse server
 
